@@ -8,8 +8,8 @@ Loại lỗi: `seat_flip`, `wrong_class`, `guess`, `box`, `missing`, `extra`, `l
 |---|---|---|---|---|
 | S08_rgb | child_seat | seat_flip | `seat = driver` (giá trị mặc định đầu danh sách của CVAT); box nằm giữa ảnh nên đúng là `rear_middle`, khớp với S08_ir | Có |
 | S03_rgb | child_seat | guess | `occupied = yes` không có trong guideline (chỉ no/unknown); đổi sang `unknown` vì không chắc bên trong | Có |
-| S01_rgb | person (ghế rear_right) | missing | OMS: người lớn cần `person` kèm box `face`, bản export chưa có box `face` nào ở S01 | Chưa — cần mở S01 kiểm: thấy mặt thì vẽ box `face`, không thấy thì ghi lý do |
-| D05 | hand | lr_flip? | Cả hai tay đều có y > 676 (cùng nằm một phía của người); cần kiểm tay `right` (898,774,1033,915) thật sự là tay phải hay đã gán ngược | Chưa — cần mở D05 kiểm |
+| S01_rgb | person (ghế rear_right) | missing | OMS: người lớn cần `person` kèm box `face`, bản export chưa có box `face` nào ở S01 | Có, Vì quay nghiên mặt đi và bị tóc che hết mặt  |
+| D05 | hand | lr_flip? | Cả hai tay đều có y > 676 (cùng nằm một phía của người); cần kiểm tay `right` (898,774,1033,915) thật sự là tay phải hay đã gán ngược | Có |
 
 ## 2. Lỗi mình lặp lại nhiều nhất hôm nay
 

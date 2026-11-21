@@ -15,4 +15,4 @@ Ca hai bạn vẫn không thống nhất và đã hỏi coach (ghi tên ảnh + 
 
 ### TranDucKy-2A202603277
 - Phần mình làm (ngoài 22 ảnh của mình): tự gán thêm phần mở rộng S09–S10 (4 ảnh, `export_extra.zip`); soát lại nhãn OMS theo checker và sửa `occupied`, `seat`.
-- Điều mình học được hôm nay: <điền 1–2 dòng bằng lời của bạn>
+- Điều mình học được hôm nay: - Các thuộc tính của của các ảnh và các phần cần giám sát trong một xe ô tô để đảm bảo an toàn 

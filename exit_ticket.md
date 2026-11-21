@@ -13,11 +13,13 @@ Làm cá nhân, không mở slide, khoảng 10 phút. Ghi đáp án ngay dưới
 - C. Để có ảnh màu đẹp hơn cho cuộc gọi video
 - D. Để camera nhìn xuyên qua mọi loại kính râm
 
-Đáp án: …
+Đáp án: B. 
+- Lý do: Đèn LED cận hồng ngoại (khoảng 940 nm) mắt người gần như không thấy, nên không làm chói tài xế. Nó chiếu sáng mặt đều cả ngày lẫn đêm, giúp camera có ảnh ổn định để đọc mắt, đầu và vùng nhìn
 
 **Câu 2 · Số, 2 chữ số thập phân.** Camera DMS chạy 30 khung hình/giây. Model ước lượng yaw của đầu tài xế lớn hơn 30° liên tục từ khung hình số 240 đến khung hình số 314, **tính cả khung 240 và khung 314**. Tài xế không nhìn đường trong bao nhiêu giây?
 
-Đáp án: … s
+Đáp án: 2.50 s
+- Lý do: Tính cả hai đầu mút nên số khung hình là 314 − 240 + 1 = 75 khung. Ở 30 khung/giây, 75 / 30 = 2.50 giây. Lỗi hay gặp là lấy 314 − 240 = 74 khung rồi ra 2.47 s, vì quên tính khung đầu.
 
 **Câu 3 · Chọn tất cả đáp án đúng.** Những câu nào đúng về dữ liệu cabin so với dữ liệu camera ngoài xe?
 
@@ -27,4 +29,9 @@ Làm cá nhân, không mở slide, khoảng 10 phút. Ghi đáp án ngay dưới
 - D. Vật trong cabin thường ở xa và nhỏ, nhiều vật trong một ảnh.
 - E. Cảnh cabin cố định nên không cần guideline hay QC riêng.
 
-Đáp án: …
+Đáp án: 
+A: Đúng 
+B: Đúng 
+C: Đúng 
+D: Sai
+E: Sai 
